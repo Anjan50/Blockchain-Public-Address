@@ -1,4 +1,3 @@
-# Blockchain Public Address
 
 ### Ethereum main: https://etherscan.io/address/0x524948a4334193fc453640172cd70224d5a81622
 ### Polygon main: https://polygonscan.com/address/0x524948a4334193fc453640172cd70224d5a81622
